@@ -1,0 +1,11 @@
+[lng]
+exit=Quitter
+add_program=Ajouter un programme
+del_program=Supprimer un programme
+program=Programme
+command=Ligne de commande
+delay=Delais (sec)
+clic_on=Clic pour activer
+clic_off=Clic pour désactiver
+info=Information
+restart=Redémarrer pour appliquer la langue

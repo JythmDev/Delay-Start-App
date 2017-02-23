@@ -1,0 +1,11 @@
+[lng]
+exit=Exit
+add_program=Add program
+del_program=Delete Program
+program=Program
+command=Command line
+delay=Delay (sec)
+clic_on=Clic for enable
+clic_off=Clic for disable
+info=Information
+restart=Restart to apply language
